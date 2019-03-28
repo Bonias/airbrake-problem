@@ -61,4 +61,4 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'airbrake', '~> 8.1.4'
+gem 'airbrake', '= 8.2.0'
